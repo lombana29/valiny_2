@@ -1,0 +1,152 @@
+/* Sección body.general */
+body.general {
+    font-family: 'Arial', sans-serif;
+    background-color: #363636; /* Gris oscuro para el fondo */
+    margin: 0;
+    padding: 0;
+    max-width: 800px;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0 auto;
+  }
+  
+  /* Sección .container */
+  .container {
+    max-width: 800px; /* Ajustado el ancho para hacerlo más compacto */
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #444; /* Gris oscuro */
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3); /* Sutil sombra para profundidad */
+  }
+  
+  /* Sección .navbar */
+  .navbar {
+    background-color: #555; /* Gris más claro */
+    color: #ffffff;
+    padding: 10px 20px;
+  }
+  
+  /* Sección .navbar-brand */
+  .navbar-brand {
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
+  /* Sección .navbar-toggler-icon */
+  .navbar-toggler-icon {
+    color: #ffffff;
+  }
+  
+  /* Sección .navbar-nav */
+  .navbar-nav {
+    margin-top: 10px;
+  }
+  
+  /* Sección .nav-item */
+  .nav-item {
+    margin-right: 20px;
+  }
+  
+  /* Sección .dropdown-menu */
+  .dropdown-menu {
+    background-color: #333; /* Gris oscuro */
+    color: #ccc; /* Gris claro */
+    padding: 10px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+  }
+  
+  /* Sección .dropdown-item */
+  .dropdown-item {
+    color: #fff; /* Blanco */
+    padding: 10px 20px;
+    border-radius: 8px;
+  }
+  
+  /* Sección .btn-primary */
+  .btn-primary {
+    background-color: #555; /* Gris más claro */
+    border-color: #444; /* Gris oscuro */
+    color: #fff; /* Blanco */
+    padding: 12px 24px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+  }
+  
+  /* Sección .btn-primary:hover */
+  .btn-primary:hover {
+    background-color: #333; /* Gris oscuro */
+    border-color: #333;
+  }
+  
+  /* Sección .mt-1 */
+  .mt-1 {
+    background-color: #444; /* Gris oscuro */
+    font-family: 'Arial', sans-serif;
+    padding: 12px;
+    border-radius: 8px;
+    border: 1px solid #333; /* Gris oscuro */
+    box-shadow: 0 0 12px rgba(0, 0, 0, 0.3);
+  }
+  
+  /* Sección .mt-4 */
+  .mt-4 {
+    background-color: #555; /* Gris más claro */
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+  }
+  
+  /* Sección .text-center */
+  .text-center {
+    text-align: center;
+  }
+  
+  /* Sección .form-label */
+  .form-label {
+    font-weight: bold;
+  }
+  
+  /* Sección .submit-btn */
+  .submit-btn {
+    background-color: #555; /* Gris más claro */
+    color: #fff; /* Blanco */
+    padding: 12px 24px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+    display: block;
+    margin: 0 auto;
+  }
+  
+  /* Sección .buscar-container */
+  .buscar-container {
+    background-color: #1a1a1a; /* Negro */
+    color: #ccc; /* Gris claro */
+    padding: 20px; /* Reducido el espacio interno */
+    border-radius: 8px; /* Menor redondez */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+  }
+  
+  /* Sección .buscar-info */
+  .buscar-info {
+    color: #6c757d;
+  }
+  
+  /* Sección .buscar-registro */
+  .buscar-registro {
+    margin-top: 20px;
+    text-align: center; /* Centro el título */
+  }
+  
+  /* Sección .buscar-formulario */
+  .buscar-formulario {
+    padding: 10px; /* Reducido el espacio interno */
+    background-color: #444; /* Gris oscuro */
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+  }
+  
+  /* Otros estilos específicos si es necesario */
+  

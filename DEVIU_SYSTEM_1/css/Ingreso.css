@@ -1,0 +1,75 @@
+/* Ingreso.css */
+
+/* "logo-container" */
+.logo-container {
+    color: #ff0000;
+    text-align: center;
+}
+
+.logo-container img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+
+/* "form-title welcome" y "form-title welcome-subtitle" */
+.form-title.welcome h1 {
+    color: #000;
+    font-weight: bold;
+}
+
+.form-title.welcome-subtitle h3 {
+    color: #ba4040;
+}
+
+/* fuera de los campos input */
+.input-label {
+    color: #3399FF;
+    display: block;
+    margin-bottom: 5px;
+}
+
+/* usuario y contraseña */
+.input.blue-text {
+    color: #96a6b6;
+}
+
+/* "Ingresar" */
+.submit-btn {
+    background-color: #3399FF;
+    color: #fff;
+    border: 0;
+    border-radius: 15px;
+    display: block;
+    margin: 15px auto;
+    padding: 15px 45px;
+    width: 100%;
+    font-size: 13px;
+    font-weight: bold;
+    cursor: pointer;
+    opacity: 1;
+    visibility: visible;
+    transition: all 0.3s ease;
+}
+
+.submit-btn:hover {
+    background-color: #ffffff;
+}
+
+/* campos de entrada (input) */
+.input {
+    border: 0;
+    outline: none;
+    box-shadow: none;
+    display: block;
+    height: 30px;
+    line-height: 30px;
+    padding: 8px 15px;
+    border-bottom: 1px solid #eee;
+    width: 100%;
+    font-size: 12px;
+}
+
+.input::-webkit-input-placeholder {
+    color: rgba(0, 0, 0, 0.4);
+}

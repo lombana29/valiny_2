@@ -1,0 +1,156 @@
+/* Sección body.general */
+body.general {
+  font-family: 'Arial', sans-serif;
+  background-color: #f0f0f0;
+  margin: 0;
+  padding: 0;
+  max-width: 800px;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  margin: 0 auto;
+}
+
+/* Sección .container */
+.container {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #ffffff;
+  border-radius: 8px;
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 2px 4px;
+}
+
+/* Sección .navbar */
+.navbar {
+  background-color: #2196f3; /* Azul primario */
+  color: #ffffff;
+  padding: 10px 20px;
+}
+
+/* Sección .navbar-brand */
+.navbar-brand {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+/* Sección .navbar-toggler-icon */
+.navbar-toggler-icon {
+  color: #ffffff;
+}
+
+/* Sección .navbar-nav */
+.navbar-nav {
+  margin-top: 10px;
+}
+
+/* Sección .nav-item */
+.nav-item {
+  margin-right: 20px;
+}
+
+/* Sección .dropdown-menu */
+.dropdown-menu {
+  background-color: #ffffff;
+  color: #333333;
+  padding: 10px;
+  border-radius: 8px;
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 2px 4px;
+}
+
+/* Sección .dropdown-item */
+.dropdown-item {
+  color: #000000;
+  padding: 10px 20px;
+  border-radius: 8px;
+}
+
+/* Sección .btn-primary */
+.btn-primary {
+  background-color: #64b5f6; /* Azul claro */
+  border-color: #4e8bf5; /* Azul más oscuro para mejor contraste */
+  color: #ffffff;
+  padding: 10px 20px;
+  border-radius: 8px;
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 2px 4px;
+}
+
+/* Sección .btn-primary:hover */
+.btn-primary:hover {
+  background-color: #4e8bf5; /* Azul más oscuro al hacer hover */
+  border-color: #4e8bf5;
+}
+
+/* Sección .mt-1 */
+.mt-1 {
+  background-color: #f0f0f0;
+  font-family: 'Arial', sans-serif;
+  padding: 10px;
+  border-radius: 5px;
+  border: 1px solid #e0e0e0;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Sección .mt-4 */
+.mt-4 {
+  background-color: #f8f9fa;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: rgba(212, 0, 0, 0.1) 0px 2px 4px;
+}
+
+/* Sección .text-center */
+.text-center {
+  text-align: center;
+}
+
+/* Sección .form-label */
+.form-label {
+  font-weight: bold;
+}
+
+/* Sección .submit-btn */
+.submit-btn {
+  background-color: #008cff; /* Azul claro */
+  color: #ffffff;
+  padding: 10px 20px;
+  border-radius: 25px;
+  box-shadow: rgb(200, 200, 200) 0px 2px 4px;
+  display: block;
+  margin: 0 auto;
+}
+
+/* Sección .buscar-container */
+.buscar-container {
+  background-color: #ffffff;
+  color: #d7d7d7;
+  padding: 30px;
+  border-radius: 15px;
+  box-shadow: 0 0 20px rgba(176, 168, 168, 0.2);
+}
+
+/* Sección .buscar-info */
+.buscar-info {
+  background-color: #f8f9fa;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: rgba(254, 254, 254, 0.1) 0px 2px 4px;
+}
+
+/* Sección .buscar-registro */
+.container.mt-4.buscar-registro {
+  background-color: #f8f9fa;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: rgba(212, 0, 0, 0.1) 0px 2px 4px;
+  text-align: center;
+}
+
+
+/* Sección .buscar-formulario */
+.buscar-formulario {
+  padding: 20px;
+  background-color: #e3e3e3;
+  border-radius: 8px;
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 2px 4px;
+}
